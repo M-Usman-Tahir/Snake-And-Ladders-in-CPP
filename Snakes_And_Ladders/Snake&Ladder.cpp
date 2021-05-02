@@ -134,13 +134,13 @@ int main() {
 
 	if (choice == 2)
 	{
-		cout << "NAME : MUHAMMAD BIN GULZAR\n roll no 20F-0346\t I created this game in c++ thanks for sir hanan farooq and mam rabia  for helping \n";
+		cout << "By Muhammad Usman Tahir & Muhammad Gulzar (A help for Muhammad Gulzar roll no 20F-0346)\nGame created in C++ (Console) for Playing Purposes";
 	}
 	else if (choice == 3) {
 
 		cout << "INSTRUCTIONS/RULES\n";
 		cout << "Any player can start playing by getting six on dice\n";
-		cout << " If there’s six on dice the player gets another turn to roll dice.\n";
+		cout << "If there comes six on dice, the player gets another turn to roll dice.\n";
 		cout << "If two or more players are at the same point index then all goes back to the initial state except the latest one.\n";
 		cout << "The first winner can give six moves forward to any other player as a gift.\n";
 
